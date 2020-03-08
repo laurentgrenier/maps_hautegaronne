@@ -3,3 +3,4 @@ jupyter
 geopandas
 descartes
 xlrd
+opencv-contrib-python
