@@ -1,0 +1,10 @@
+id;product;userCount;warehouse;date
+1;Guitar;0;D-12;2020-03-10
+2;Drums;1;F-1;2020-03-10
+3;Piano;1;E-9;2020-03-10
+1;Guitar;0;D-12;2020-03-09
+2;Drums;12;F-1;2020-03-09
+3;Piano;0;E-9;2020-03-09
+1;Guitar;0;D-12;2020-03-08
+2;Drums;10;F-1;2020-03-08
+3;Piano;0;E-9;2020-03-08

@@ -4,3 +4,4 @@ geopandas
 descartes
 xlrd
 opencv-contrib-python
+numpy==1.15.4

@@ -1,3 +1,4 @@
-import numpy as np
+import pandas as pd
 
-np.str
+# df = pd.read_csv('test.csv', sep=';')
+
